@@ -1,16 +1,47 @@
-## Hi there 👋
+# Jadiel Santos | Data Analyst & Developer in Training
 
-<!--
-**jadielluis-santos/jadielluis-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Olá! Eu sou Jadiel Santos, um profissional focado em transição de carreira para as áreas de **Análise de Dados, Business Intelligence (BI)** e **Automação com Inteligência Artificial**.
 
-Here are some ideas to get you started:
+Meu objetivo é utilizar **Python** e ferramentas de BI para transformar dados brutos em *insights* acionáveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 Minha Abordagem com Tecnologia (AI-Assisted)
+
+Estou acelerando meu aprendizado e desenvolvimento técnico utilizando **IA Conversacional** (como ChatGPT/Gemini) para otimizar código, depuração e documentação.
+
+### Minhas Skills Chave Atuais
+
+Estas são as áreas onde estou focando e aplicando conhecimento:
+
+**🧠 IA & Automação:**
+* AI-Assisted Development
+* Generative AI Tools
+* Prompt Engineering
+* Conversational AI
+
+**💻 Desenvolvimento & Dados:**
+* Python (Programming Language)
+* SQL & Microsoft SQL Server
+* Git & GitHub (Version Control)
+* VS Code
+
+**📊 Análise & BI:**
+* Data Analysis
+* Business Intelligence (BI)
+* Microsoft Power BI
+* Data Visualization
+
+---
+
+## 🚀 Projetos em Destaque
+
+Explore meus repositórios para ver meu progresso:
+
+* **Análise de Dados (Ativo):** [Análise de Vendas com Pandas e Filtros Condicionais](https://github.com/jadielluis-santos/analise-dados-python)
+* **Primeiros Passos em Python:** [Exercícios Básicos de Python](https://github.com/jadielluis-santos/python-treino)
+
+---
+
+*Fique à vontade para conectar-se comigo no LinkedIn!*
+[linkedin.com/in/jadielsantos95/]
