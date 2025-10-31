@@ -45,4 +45,5 @@ Explore meus repositórios para ver meu progresso:
 
 *Fique à vontade para conectar-se comigo no LinkedIn!*
 [linkedin.com/in/jadielsantos95/]
+
 *E veja meu código em ação no GitHub: [https://github.com/jadieulluis-santos]*
